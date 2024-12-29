@@ -1,15 +1,28 @@
-# [Site Responsivo de Cafeteria](https://guazzihub.github.io/Site-responsivo/)
+# Site Responsivo de Cafeteria
 
-Este é um projeto de site responsivo para uma cafeteria fictícia, desenvolvido originalmente em 2020 e aprimorado em 2024 com um design atualizado. O site foi criado utilizando **Bootstrap 4** para oferecer uma experiência fluida em dispositivos de diferentes tamanhos.
+Este é um projeto de site responsivo para uma cafeteria fictícia, desenvolvido originalmente em **2020** e aprimorado em **2024** com um design mais moderno e funcional. O site utiliza **Bootstrap 4** para garantir uma experiência fluida em diferentes dispositivos.
+
+---
 
 ## 📋 Funcionalidades
 
-- **Design Responsivo:** Layout adaptável para diferentes dispositivos, como desktops, tablets e smartphones.
-- **Interface Simples e Atraente:** Foco em uma experiência visual clara e amigável.
-- **Organização de Conteúdo:** Uso de seções dedicadas para imagens, textos e menus.
+- **Design Responsivo:**
+  - Adapta-se perfeitamente a dispositivos como desktops, tablets e smartphones.
+- **Interface Simples e Atraente:**
+  - Design focado na clareza e experiência amigável para o usuário.
+    
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5:** Para a estrutura do site.
-- **CSS3:** Para a estilização, com customizações adicionais.
+- **HTML5:** Estrutura do site.
+- **CSS3:** Estilização com customizações adicionais.
 - **Bootstrap 4:** Framework principal para responsividade e layout.
+
+---
+
+## 🌐 Demonstração
+
+O projeto está disponível no GitHub Pages e pode ser acessado através do link abaixo:
+
+🔗 [Acessar Site Responsivo de Cafeteria](https://guazzihub.github.io/Site-responsivo/)
